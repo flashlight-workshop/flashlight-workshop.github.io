@@ -16,18 +16,18 @@ quality = 99
 [params]
 description = "First Workshop on Formal Methods In High-Level Synthesis."
 homeMetaContent = "First Workshop on Formal Methods In High-Level Synthesis."
-footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+footer = "Organised by John Wickerson and Lana Josipović."
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
 katex = true
 hideHeaderLinks = false
 search = true
-showThemeSwitcher = true
+showThemeSwitcher = false
 defaultDarkTheme = false
-moveFooterToHeader = false
+moveFooterToHeader = true
 logoAlt = "First Workshop on Formal Methods In High-Level Synthesis."
-customCss = [ "css/custom_01.css", "css/custom_02.css" ]
-customJs = [ "js/custom_01.js", "js/custom_02.js" ]
+customCss = [ "css/custom_01.css" ]
+customJs = [ ]
 
 [[menu.nav]]
 name = "About"
