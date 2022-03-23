@@ -1,6 +1,6 @@
 ---
 date: "2022-03-23"
-title: "About"
+title: "Home"
 ---
 
 Welcome to the FLASHLIGHT workshop, which will be held at [FCCM'22](https://www.fccm.org).
