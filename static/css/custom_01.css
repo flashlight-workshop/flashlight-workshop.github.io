@@ -3,7 +3,6 @@ body {
 }
 .pattern [aria-current] {
   background-color: #716F81;
-  clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
   color: #f9f1e0;
 }
 .intro-and-nav {
