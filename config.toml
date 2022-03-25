@@ -16,7 +16,6 @@ quality = 99
 [params]
 description = "First Workshop on Formal Methods in High-Level Synthesis."
 homeMetaContent = "First Workshop on Formal Methods in High-Level Synthesis."
-footer = "Organised by John Wickerson and Lana Josipović."
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
 katex = true
