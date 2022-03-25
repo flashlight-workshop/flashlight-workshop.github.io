@@ -32,7 +32,7 @@ Wednesday 18th May 2022, 09:00 - 12:00 (New York time, EST)
 
 ## Where?
 
-Verizon Executive Center, Cornell Tech, 2 West Loop Road, Roosevelt Island, New York City, NY 10044
+Verizon Executive Center, [Cornell Tech](https://goo.gl/maps/jorEvBja4oZnWhMR8), 2 West Loop Road, Roosevelt Island, New York City, NY 10044
 
 ## Who?
 
