@@ -7,30 +7,24 @@ FLASHLIGHT is the first workshop on Formal Methods in High-Level Synthesis. It w
 
 ## Why?
 
-With FPGAs now widespread, there is huge demand for tools that make them easier to
-program. High-level synthesis (HLS) is a particularly compelling solution, as it promises to make
-the computational power and energy efficiency of FPGAs available to software engineers who may not have a
-background in hardware design. There has, accordingly, been a huge amount of HLS research in recent
-years, much of which has been presented at FCCM and its sister conferences.
+With FPGAs now widespread, there is huge demand for tools that make them easier to program.
+[High-level synthesis (HLS)](https://en.wikipedia.org/wiki/High-level_synthesis) is a particularly compelling solution, as it promises to make the computational power and energy efficiency of FPGAs available to software engineers who may not have a background in hardware design. 
+There has, accordingly, been a huge amount of HLS research in recent years, much of which has been presented at FCCM and its sister conferences.
 
-We believe that there is a considerable opportunity to improve the reliability of HLS tools, as well
-as the quality of the hardware designs they produce, through the application of formal
-methods. Formal methods include tools such as proof assistants, static analysers, and automatic
-verifiers, and also techniques such as formal semantics for specifying the source/target languages.
+We believe that there is a considerable opportunity to improve the reliability of HLS tools, as well as the quality of the hardware designs they produce, through the application of formal methods.
+Formal methods include tools such as proof assistants, static analysers, and automatic verifiers, and also techniques such as formal semantics for specifying the source/target languages.
 
-Work presented at FCCM in recent years indicates a substantial number of researchers in the
-community with interests at the intersection of HLS and formal methods. For instance, [static analysis has been applied](https://ieeexplore.ieee.org/document/9444048) to hardware circuits formalised as Petri nets in order to determine initiation intervals for pipelines; [fuzzing methods have been used](https://ieeexplore.ieee.org/document/9444067) to test HLS
-tools, motivating the need to formally verify the HLS process; and [the Coq
-proof assistant has been employed](https://ieeexplore.ieee.org/document/8735537) to verify that HLS optimisations respect dependencies in the source code. More
-generally, "translation validation" and "formal verification" have long been popular topics in FCCM
-papers.
+Work presented at FCCM in recent years indicates a substantial number of researchers in the community with interests at the intersection of HLS and formal methods. 
+For instance, 
+[static analysis has been applied](https://ieeexplore.ieee.org/document/9444048) to hardware circuits formalised as Petri nets in order to determine initiation intervals for pipelines; 
+[fuzzing methods have been used](https://ieeexplore.ieee.org/document/9444067) to test HLS tools, motivating the need to formally verify the HLS process; and 
+[the Coq proof assistant has been employed](https://ieeexplore.ieee.org/document/8735537) to verify that HLS optimisations respect dependencies in the source code. 
+More generally, "translation validation" and "formal verification" have long been popular topics in FCCM papers.
 
 ## What?
 
-We intend this workshop to provide a forum to bring these people together to share ideas. We hope
-that it will be valuable both to HLS experts who are interested in how formal methods could improve
-the correctness and efficiency of HLS tools, and to formal methods experts who would like to learn
-about how HLS as an interesting and worthwhile application domain for their techniques.
+We intend this workshop to provide a forum to bring these people together to share ideas. 
+We hope that it will be valuable both to HLS experts who are interested in how formal methods could improve the correctness and efficiency of HLS tools, and to formal methods experts who would like to learn about HLS as an interesting and worthwhile application domain for their techniques.
 
 ## When?
 
