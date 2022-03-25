@@ -36,6 +36,8 @@ Verizon Executive Center, Cornell Tech, 2 West Loop Road, Roosevelt Island, New 
 
 ## Who?
 
+FLASHLIGHT is brought to you by:
+
 - [Jianyi Cheng](https://jianyicheng.github.io/), Imperial College London, UK
 - [Yann Herklotz](https://yannherklotz.com/), Imperial College London, UK
 - [Lana Josipović](https://sites.google.com/view/lanajosipovic), ETH Zürich, Switzerland (co-chair)
