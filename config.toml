@@ -14,8 +14,8 @@ post = "/:filename/"
 quality = 99
 
 [params]
-description = "First Workshop on Formal Methods In High-Level Synthesis."
-homeMetaContent = "First Workshop on Formal Methods In High-Level Synthesis."
+description = "First Workshop on Formal Methods in High-Level Synthesis."
+homeMetaContent = "First Workshop on Formal Methods in High-Level Synthesis."
 footer = "Organised by John Wickerson and Lana Josipović."
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
@@ -25,7 +25,7 @@ search = true
 showThemeSwitcher = false
 defaultDarkTheme = false
 moveFooterToHeader = true
-logoAlt = "First Workshop on Formal Methods In High-Level Synthesis."
+logoAlt = "First Workshop on Formal Methods in High-Level Synthesis."
 customCss = [ "css/custom_01.css" ]
 customJs = [ ]
 
@@ -33,11 +33,6 @@ customJs = [ ]
 name = "Home"
 url = "/"
 weight = 1
-
-[[menu.nav]]
-name = "About"
-url = "/about"
-weight = 2
 
 [[menu.nav]]
 name = "RSS"
