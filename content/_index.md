@@ -41,6 +41,6 @@ FLASHLIGHT is brought to you by:
 - [Jianyi Cheng](https://jianyicheng.github.io/), Imperial College London, UK
 - [Yann Herklotz](https://yannherklotz.com/), Imperial College London, UK
 - [Lana Josipović](https://sites.google.com/view/lanajosipovic), ETH Zürich, Switzerland (co-chair)
-- [John Wickerson](https://johnwickerson.github.io/), Imperial College London, UK, (co-chair)
+- [John Wickerson](https://johnwickerson.github.io/), Imperial College London, UK (co-chair)
 
 
