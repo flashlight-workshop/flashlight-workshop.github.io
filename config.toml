@@ -27,6 +27,7 @@ moveFooterToHeader = true
 logoAlt = "First Workshop on Formal Methods in High-Level Synthesis."
 customCss = [ "css/custom_01.css" ]
 customJs = [ ]
+footer_link = "https://www.fccm.org/workshop-tutorial-2022/"
 
 [[menu.nav]]
 name = "Home"

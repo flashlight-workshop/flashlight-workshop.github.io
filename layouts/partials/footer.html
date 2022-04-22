@@ -1,0 +1,17 @@
+<footer role="contentinfo">
+  <div
+  {{ if eq .Site.Params.showThemeSwitcher false }}style="display: none;"{{ end }}
+  >
+    <label for="themer">
+      {{ T "dark_theme" }} <input type="checkbox" id="themer" class="vh">
+      <!-- Shows "on" or "off" -->
+      <span aria-hidden="true"></span>
+    </label>
+  </div>
+  {{ with .Site.Params.footer }}
+    {{ . | markdownify }}
+  {{ end }}
+  {{ if isset .Site.Params "footer_link" }}
+    <a href="{{ .Site.Params.footer_link }}"><img src="/images/fccm-logo.png"></a>
+  {{ end }}
+</footer>
