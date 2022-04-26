@@ -50,4 +50,7 @@ In addition, we're delighted that the following people are (hopefully) going to 
 - [Rajit Manohar](https://csl.yale.edu/~rajit/), Yale
 - [Rachit Nigam](https://rachitnigam.com/), Cornell
 - [Christian Pilato](https://pilato.faculty.polimi.it/), Politecnico di Milano
+- [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), Cornell
+- [Michael Adler](https://www.linkedin.com/in/michael-adler-70970714), Intel
+- [He Li](http://www.eng.cam.ac.uk/profiles/hl556), Cambridge
 
