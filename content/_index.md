@@ -43,7 +43,7 @@ FLASHLIGHT is brought to you by:
 - [Lana Josipović](https://sites.google.com/view/lanajosipovic), ETH Zürich, Switzerland (co-chair)
 - [John Wickerson](https://johnwickerson.github.io/), Imperial College London, UK (co-chair)
 
-In addition, we're delighted that the following people are (hopefully) going to be participating:
+In addition, we're delighted that the following people are (hopefully) going to be among the workshop's participants:
 
 - [Ecenur Üstün](http://people.ece.cornell.edu/eu49/), Cornell
 - [Debjit Pal](https://paldebjit.github.io/), Cornell
