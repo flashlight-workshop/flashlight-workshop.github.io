@@ -45,7 +45,7 @@ FLASHLIGHT is brought to you by:
 
 In addition, we're delighted that the following people are (hopefully) going to be among the workshop's participants:
 
-- [Ecenur Üstün](http://people.ece.cornell.edu/eu49/), Cornell
+- [Ecenur Üstün](http://people.ece.cornell.edu/eu49/), Cornell, who will talk about "Optimizing Large Integer Multiplication in HLS using Equality Saturation"
 - [Debjit Pal](https://paldebjit.github.io/), Cornell
 - [Rajit Manohar](https://csl.yale.edu/~rajit/), Yale
 - [Rachit Nigam](https://rachitnigam.com/), Cornell
