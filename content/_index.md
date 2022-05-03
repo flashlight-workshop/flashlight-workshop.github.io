@@ -48,8 +48,8 @@ In addition, we're delighted that the following people are (hopefully) going to 
 - [Ecenur Üstün](http://people.ece.cornell.edu/eu49/), Cornell, who will talk about "Optimizing Large Integer Multiplication in HLS using Equality Saturation"
 - [Debjit Pal](https://paldebjit.github.io/), Cornell
 - [Rajit Manohar](https://csl.yale.edu/~rajit/), Yale
-- [Rachit Nigam](https://rachitnigam.com/), Cornell
-- [Christian Pilato](https://pilato.faculty.polimi.it/), Politecnico di Milano
+- [Rachit Nigam](https://rachitnigam.com/), Cornell, who will talk about "Time-Sensitive Interfaces for Hardware Modules"
+- [Christian Pilato](https://pilato.faculty.polimi.it/), Politecnico di Milano, who will talk about "Designing memory architectures with high-level synthesis: What could possibly go wrong?"
 - [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), Cornell
 - [Michael Adler](https://www.linkedin.com/in/michael-adler-70970714), Intel
 - [He Li](http://www.eng.cam.ac.uk/profiles/hl556), Cambridge
