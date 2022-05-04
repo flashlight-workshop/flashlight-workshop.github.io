@@ -38,19 +38,19 @@ Verizon Executive Center, [Cornell Tech](https://goo.gl/maps/jorEvBja4oZnWhMR8),
 
 FLASHLIGHT is brought to you by:
 
-- [Jianyi Cheng](https://jianyicheng.github.io/), Imperial College London, UK
+- [Jianyi Cheng](https://jianyicheng.github.io/), Imperial College London, UK, who will talk about "Static Analysis for HLS: from Formal Verification to Probabilistic Analysis" 
 - [Yann Herklotz](https://yannherklotz.com/), Imperial College London, UK
 - [Lana Josipović](https://sites.google.com/view/lanajosipovic), ETH Zürich, Switzerland (co-chair)
 - [John Wickerson](https://johnwickerson.github.io/), Imperial College London, UK (co-chair)
 
 In addition, we're delighted that the following people are (hopefully) going to be among the workshop's participants:
 
-- [Ecenur Üstün](http://people.ece.cornell.edu/eu49/), Cornell, who will talk about "Optimizing Large Integer Multiplication in HLS using Equality Saturation"
-- [Debjit Pal](https://paldebjit.github.io/), Cornell
-- [Rajit Manohar](https://csl.yale.edu/~rajit/), Yale
-- [Rachit Nigam](https://rachitnigam.com/), Cornell, who will talk about "Time-Sensitive Interfaces for Hardware Modules"
+- [Ecenur Üstün](http://people.ece.cornell.edu/eu49/), Cornell University, who will talk about "Optimizing Large Integer Multiplication in HLS using Equality Saturation"
+- [Debjit Pal](https://paldebjit.github.io/), Cornell University
+- [Rajit Manohar](https://csl.yale.edu/~rajit/), Yale University
+- [Rachit Nigam](https://rachitnigam.com/), Cornell University, who will talk about "Time-Sensitive Interfaces for Hardware Modules"
 - [Christian Pilato](https://pilato.faculty.polimi.it/), Politecnico di Milano, who will talk about "Designing memory architectures with high-level synthesis: What could possibly go wrong?"
-- [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), Cornell
+- [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), Cornell University
 - [Michael Adler](https://www.linkedin.com/in/michael-adler-70970714), Intel
-- [He Li](http://www.eng.cam.ac.uk/profiles/hl556), Cambridge
+- [He Li](http://www.eng.cam.ac.uk/profiles/hl556), University of Cambridge
 
