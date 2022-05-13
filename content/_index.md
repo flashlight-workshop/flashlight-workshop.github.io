@@ -38,7 +38,7 @@ Verizon Executive Center, [Cornell Tech](https://goo.gl/maps/jorEvBja4oZnWhMR8),
 
 FLASHLIGHT is brought to you by:
 
-- [Jianyi Cheng](https://jianyicheng.github.io/), Imperial College London, UK, who will talk about "Static Analysis for HLS: from Formal Verification to Probabilistic Analysis" 
+- [Jianyi Cheng](https://jianyicheng.github.io/), Imperial College London, UK, who will talk about "Probabilistic Optimisation for HLS using Petri Nets" 
 - [Yann Herklotz](https://yannherklotz.com/), Imperial College London, UK, who will talk about
   "Formal Verification of an Optimising High-Level Synthesis Tool"
 - [Lana Josipović](https://sites.google.com/view/lanajosipovic), ETH Zürich, Switzerland (co-chair)
