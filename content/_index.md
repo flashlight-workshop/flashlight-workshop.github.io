@@ -40,7 +40,7 @@ FLASHLIGHT is brought to you by:
 
 - [Jianyi Cheng](https://jianyicheng.github.io/), Imperial College London, UK, who will talk about "Probabilistic Optimisation for HLS using Petri Nets" 
 - [Yann Herklotz](https://yannherklotz.com/), Imperial College London, UK, who will talk about
-  "Formal Verification of an Optimising High-Level Synthesis Tool"
+  "Loop Pipelining for a Verified High-Level Synthesis Tool"
 - [Lana Josipović](https://sites.google.com/view/lanajosipovic), ETH Zürich, Switzerland (co-chair)
 - [John Wickerson](https://johnwickerson.github.io/), Imperial College London, UK (co-chair)
 
