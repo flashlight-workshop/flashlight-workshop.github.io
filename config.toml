@@ -35,6 +35,21 @@ url = "/"
 weight = 1
 
 [[menu.nav]]
+name = "Photo Gallery"
+url = "/photos"
+weight = 2
+
+[[menu.nav]]
+name = "Talk Summaries"
+url = "/notes"
+weight = 3
+
+[[menu.nav]]
+name = "Participants"
+url = "/participants"
+weight = 4
+
+[[menu.nav]]
 name = "RSS"
 url = "/index.xml"
 weight = 5
